@@ -1,0 +1,10 @@
+.test_image{
+    background-color: aquamarine;
+    font-style: italic;
+}
+
+.copyright_footer{
+    bottom: 0;
+    position: sticky;
+   
+}
